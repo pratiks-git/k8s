@@ -7,3 +7,20 @@
   - Auto healing
   - Auto scaling
   - Enterprise level support like adv networking, LB, security
+###Kubernetes Topics 
+ Architecture
+ Workloads
+ - Deployment
+ - Replicaset
+ - Pod
+ - Jobs
+ Services
+ - Cluster
+ - NodePort
+ - LoadBalancer
+ Ingress
+ - Ingress controller
+ Storage
+ - Volumes
+ - Persistent Volumes
+ - Ephermeral volumes
