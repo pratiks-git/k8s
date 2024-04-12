@@ -21,10 +21,10 @@ spec:
         volumeMounts:
         - name: db-connection
           mountPath: "/opt/db"
-          subPath: db
+#         subPath: db
         - name: secret-volume
           mountPath: "/opt/sc"
-          subPath: sc
+#         subPath: sc
 #        env:
 #        - name: DB-PORT
 #          valueFrom:
